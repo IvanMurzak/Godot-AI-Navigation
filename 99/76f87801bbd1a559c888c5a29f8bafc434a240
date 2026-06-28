@@ -1,0 +1,33 @@
+tests/Godot-AI-Navigation.Tests/Tool_Navigation_DefaultsTests.cs
+  s_e3cea916442b5e::t_35d7cc6f0a07ac 1-64
+tests/Godot-AI-Navigation.Tests/NavigationDimensionTests.cs
+  s_e3cea916442b5e::t_f6f813d74b379a 1-82
+tests/Godot-AI-Navigation.Tests/NavigationDefaultsTests.cs
+  s_e3cea916442b5e::t_9c4547a6d427ce 1-90
+tests/Godot-AI-Navigation.Tests/Godot-AI-Navigation.Tests.csproj
+  s_2069f91f3e3910::t_ece322b202f33b 39-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "9976f87801bbd1a559c888c5a29f8bafc434a240",
+  "prompts": {},
+  "sessions": {
+    "s_2069f91f3e3910": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a8dc26fea434b457a",
+        "model": "unknown"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    },
+    "s_e3cea916442b5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c575ab56-73e6-4952-bb8b-fef415924e27",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
