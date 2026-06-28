@@ -1,0 +1,21 @@
+tests/e2e/e2e-tools.json
+  s_e3cea916442b5e::t_d045bd1deb936f 2-10,13-40,43-45
+src/Godot-AI-Navigation/README.md
+  s_e3cea916442b5e::t_d8a2244d59d38e 3,5-7,23,27-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "f4b25be09215d2d6b25abf9800891befc48ab9ce",
+  "prompts": {},
+  "sessions": {
+    "s_e3cea916442b5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c575ab56-73e6-4952-bb8b-fef415924e27",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
