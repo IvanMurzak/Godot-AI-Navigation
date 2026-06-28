@@ -1,0 +1,29 @@
+src/Godot-AI-Navigation/Runtime/Navigation/NavigationDefaults.cs
+  s_e3cea916442b5e::t_28eb87073b618c 1-93
+src/Godot-AI-Navigation/Runtime/Navigation/NavigationNodeInfo.cs
+  s_e3cea916442b5e::t_80238b5e12dda4 1-97
+src/Godot-AI-Navigation/Runtime/Tools/Tool_Navigation.cs
+  s_e3cea916442b5e::t_2aab16a01da86a 15-22,25,28-29,32-36
+src/Godot-AI-Navigation/Runtime/Navigation/NavigationDimension.cs
+  s_e3cea916442b5e::t_170623c9c087d9 1-124
+src/Godot-AI-Navigation/Runtime/Tools/Tool_Navigation.Defaults.cs
+  s_e3cea916442b5e::t_d503aa5951dea8 1-50
+src/Godot-AI-Navigation/Runtime/Tools/Tool_Navigation.Ids.cs
+  s_e3cea916442b5e::t_62ad828ec5c93a 1-40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "248f3240d298ed5878aab9e0a4a03e8884370733",
+  "prompts": {},
+  "sessions": {
+    "s_e3cea916442b5e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c575ab56-73e6-4952-bb8b-fef415924e27",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Ivan Murzak <Ivan.D.Murzak@gmail.com>"
+    }
+  }
+}
