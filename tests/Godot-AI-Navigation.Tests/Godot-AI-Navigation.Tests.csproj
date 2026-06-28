@@ -36,7 +36,11 @@
   -->
   <ItemGroup>
     <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Tools\Tool_Navigation.cs" Link="Source\Tool_Navigation.cs" />
-    <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Tools\Tool_Navigation.Echo.cs" Link="Source\Tool_Navigation.Echo.cs" />
+    <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Tools\Tool_Navigation.Ids.cs" Link="Source\Tool_Navigation.Ids.cs" />
+    <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Tools\Tool_Navigation.Defaults.cs" Link="Source\Tool_Navigation.Defaults.cs" />
+    <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Navigation\NavigationDimension.cs" Link="Source\NavigationDimension.cs" />
+    <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Navigation\NavigationNodeInfo.cs" Link="Source\NavigationNodeInfo.cs" />
+    <Compile Include="..\..\src\Godot-AI-Navigation\Runtime\Navigation\NavigationDefaults.cs" Link="Source\NavigationDefaults.cs" />
   </ItemGroup>
 
 </Project>
