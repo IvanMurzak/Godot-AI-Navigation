@@ -30,10 +30,9 @@ the load-bearing detail — read `docs/source-only-nuget-recipe.md`.
 
 ## Tools
 
-Ids live in `Runtime/Tools/Tool_Navigation.Ids.cs` (the source of truth). Each tool is one partial-class file
-named after it: pure-managed under `Runtime/Tools/`, editor tools under `Editor/Tools/`. Current tools:
-`navigation-defaults` (pure-managed), `navigation-region-create`, `navigation-region-set-mesh`,
-`navigation-agent-create`, `navigation-agent-configure`, `navigation-link-create`, `navigation-get`.
+Ids live in `Runtime/Tools/Tool_Navigation.Ids.cs` (the source of truth). Current tools: `navigation-defaults`
+(pure-managed), `navigation-region-create`, `navigation-region-set-mesh`, `navigation-agent-create`,
+`navigation-agent-configure`, `navigation-link-create`, `navigation-get`.
 
 ## Build / test (no Godot binary)
 
